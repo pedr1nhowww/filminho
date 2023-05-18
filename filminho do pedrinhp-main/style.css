@@ -1,0 +1,48 @@
+
+ body{background-color: rgb(109, 22, 160);
+    color: rgb(0, 0, 0);
+
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(88, 21, 119);
+    font-family: monospace;
+    text-align: center;
+    font-size: 70px;
+}
+h2{
+    background-color: rgb(88, 21, 119);
+    text-align: center;
+    color: rgba(0, 0, 0, 0.815);
+
+}
+
+.imagemfilme{
+    text-align:center;
+}
+
+.filme1{
+    
+    text-align: center;
+    width: 50%;
+    height: 90%;
+}
+.cartaztodos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%
+}
+.link{
+    background-color: rgb(92, 0, 121);
+    color: black;
+    font-size: 20px;
+
+}
+h3{color: rgb(0, 0, 0);
+    font-size: 30px;
+ 
+
+}
+
+
